@@ -1,22 +1,15 @@
 import random, sys, argparse
 
-# movies and color commentary
-# movies = ['Wild Wild West', 'The Room', 'Machete', 'Be Cool', 'Iron Sky', 
-#         'Mad Max Beyond Thunderdome', 'Battlefield Earth', 'Troll 2', 
-#         'Masters of the Universe']
-movies = {'Wild Wild West':'Will Smith fights a giant spider in a cowboy hat.\nAlso, naked ladies',
+movies = {'Wild Wild West':'Will Smith fights a giant spider in a cowboy hat. Also, naked ladies',
          'The Room':'Things spiral out of control in a banker\'s life.\nYou\'re Tearing Me Apart, Lisa!!!',
          'Machete':'Danny Trejo kicks ass.',
-         'Be Cool':'Mobster-turned-movie/music producer has run ins with the Russian mob.\nHijinks ensure.',
+         'Be Cool':'Mobster-turned-movie/music producer has run ins with the Russian mob. Hijinks ensure.',
          'Iron Sky':'Moon nazis.', 
          'Mad Max Beyond Thunderdome':'Mad Max\'s adventure continues with gladiator fights and Tina Turner.\nWHO RUN BARTERTOWN?!',
          'Battlefield Earth':'Based on a book by L Ron Hubbard (yes, that L Ron Hubbard).\nDescribed by its star, Travolta, as "The Schindler\'s List of science fiction."\nIt\'s a clusterfuck.',
          'Troll 2':'Vegetarian globlins (no trolls), grandpa\'s ghost, and an ill-fated family trip.', 
-         'Masters of the Universe':'Skeletor find the Cosmic Key.  He-Man must save the day again!'
+         'Masters of the Universe':'Skeletor find the Cosmic Key. He-Man must save the day again!'
          }
-
-# for k, v in movies.iteritems():
-#     print k+":\n"+v+"\n"
 
 peanut_gallery = ['Excellent choice.', 'Oh dear.', 'Grab a drink or three.', 
                 'Very good, sir.', 'You\'re in for a treat.']
