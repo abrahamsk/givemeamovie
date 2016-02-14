@@ -1,7 +1,6 @@
 import random, sys, argparse
 
-movies = {'Wild Wild West':'Will Smith fights a giant spider in a cowboy hat. Also, naked ladies',
-         'The Room':'Things spiral out of control in a banker\'s life.\nYou\'re Tearing Me Apart, Lisa!!!',
+movies = {'The Room':'Things spiral out of control in a banker\'s life.\nYou\'re Tearing Me Apart, Lisa!!!',
          'Machete':'Danny Trejo kicks ass.',
          'Be Cool':'Mobster-turned-movie/music producer has run ins with the Russian mob. Hijinks ensure.',
          'Iron Sky':'Moon nazis.', 
