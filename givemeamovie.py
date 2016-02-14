@@ -8,7 +8,9 @@ movies = {'Wild Wild West':'Will Smith fights a giant spider in a cowboy hat. Al
          'Mad Max Beyond Thunderdome':'Mad Max\'s adventure continues with gladiator fights and Tina Turner.\nWHO RUN BARTERTOWN?!',
          'Battlefield Earth':'Based on a book by L Ron Hubbard (yes, that L Ron Hubbard).\nDescribed by its star, Travolta, as "The Schindler\'s List of science fiction."\nIt\'s a clusterfuck.',
          'Troll 2':'Vegetarian globlins (no trolls), grandpa\'s ghost, and an ill-fated family trip.', 
-         'Masters of the Universe':'Skeletor find the Cosmic Key. He-Man must save the day again!'
+         'Masters of the Universe':'Skeletor find the Cosmic Key. He-Man must save the day again!',
+         'The Witches':'Boy turns mouse and fights witchez!',
+         'The Punisher: War Zone':'Just watch this: https://youtu.be/YF28ceFJJ3A'
          }
 
 peanut_gallery = ['Excellent choice.', 'Oh dear.', 'Grab a drink or three.', 
