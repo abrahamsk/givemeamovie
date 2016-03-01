@@ -9,7 +9,7 @@ movies = {'The Room':'Things spiral out of control in a banker\'s life.\nYou\'re
          'Troll 2':'Vegetarian globlins (no trolls), grandpa\'s ghost, and an ill-fated family trip.', 
          'Masters of the Universe':'Skeletor find the Cosmic Key. He-Man must save the day again!',
          'The Witches':'Boy turns mouse and fights witchez!',
-         'Piranha 3DD':'Maddy (Danielle Panabaker), a marine biology student, returns home for the summer to the waterpark she co-owns. She finds to her horror that the other co-owner, her step-father Chet, plans to add an adult-themed section to the waterpark with "water-certified strippers", and re-open it as "Big Wet".  Need I say more?'
+         'Gymkata':'Main character Cabot must combine his gymnastics skills of the west with fighting secrets of the east and form GYMKATA!'
          }
 
 peanut_gallery = ['Excellent choice.', 'Oh dear.', 'Grab a drink or three.', 
