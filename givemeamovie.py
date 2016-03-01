@@ -33,6 +33,12 @@ synopsis = "Here's the \"plot\": "+movies.get(choice)
 commentary = "\n"+(random.choice(peanut_gallery))+"\n"
 sys.stdout.write(result+synopsis+commentary)
 
+# movies we've already subjected ourselves to
+archive = ['A Talking Cat!?!',
+         'Wild Wild West',
+         'Punisher: War Zone',
+         'Piranha 3DD'
+         ]
 
 
 
