@@ -9,7 +9,6 @@ movies = {'The Room':'Things spiral out of control in a banker\'s life.\nYou\'re
          'Troll 2':'Vegetarian globlins (no trolls), grandpa\'s ghost, and an ill-fated family trip.', 
          'Masters of the Universe':'Skeletor find the Cosmic Key. He-Man must save the day again!',
          'The Witches':'Boy turns mouse and fights witchez!',
-         'Gymkata':'Main character Cabot must combine his gymnastics skills of the west with fighting secrets of the east and form GYMKATA!',
          'Mortal Kombat: Annihilation':'The world was created in six days, so too shall it be destroyed and on the seventh day mankind will rest... in peace.'
          }
 
