@@ -6,6 +6,7 @@ movies = {'The Room':'Things spiral out of control in a banker\'s life.\nYou\'re
          'Troll 2':'Vegetarian globlins (no trolls), grandpa\'s ghost, and an ill-fated family trip.',
          'Masters of the Universe':'Skeletor find the Cosmic Key. He-Man must save the day again!',
          'The Witches':'Boy turns mouse and fights witchez!',
+         'Box Fan for Sleep and Deep Relaxation':'It\'s a video of a box fan. http://www.amazon.com/Box-Fan-Sleep-Deep-Relaxation/dp/B018J6Z2L8'
          }
 
 peanut_gallery = ['Excellent choice.', 'Oh dear.', 'Grab a drink or three.',
